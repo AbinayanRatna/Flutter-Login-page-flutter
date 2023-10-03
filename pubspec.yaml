@@ -32,6 +32,8 @@ dependencies:
     sdk: flutter
   flutter_svg: ^2.0.5
   flutter_screenutil: ^5.9.0
+  toast: ^0.3.0
+  bouncing_button: ^0.0.1
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.

@@ -25,6 +25,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.1"
+  bouncing_button:
+    dependency: "direct main"
+    description:
+      name: bouncing_button
+      sha256: e281c0af5e71ec53ffb1656060221930b121388ea21e3cb095b0bede8b596635
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.1+2"
   characters:
     dependency: transitive
     description:
@@ -96,6 +104,11 @@ packages:
     version: "2.0.7"
   flutter_test:
     dependency: "direct dev"
+    description: flutter
+    source: sdk
+    version: "0.0.0"
+  flutter_web_plugins:
+    dependency: transitive
     description: flutter
     source: sdk
     version: "0.0.0"
@@ -208,6 +221,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.6.0"
+  toast:
+    dependency: "direct main"
+    description:
+      name: toast
+      sha256: "12433091e3e5a25b3a25f670126e42547c9ade135de30ad9ace45d1ddccd57c9"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
   vector_graphics:
     dependency: transitive
     description:
