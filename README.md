@@ -1,9 +1,9 @@
 Screenshots:
 
-<img src="scrshots/Swap_select.jpeg" alt="Login" style="width: 400px"/>
-<img src="scrshots/items_for_swap.jpeg" alt=Add" style="width: 400px"/>
-<img src="scrshots/swap_add.jpeg" alt="Edit" style="width: 400px"/>
-<img src="scrshots/swap_list.jpeg" alt="Categories" style="width: 400px"/>
+<img src="ScreenShots/sample_1.jpg" style="width: 400px"/>
+<img src="ScreenShots/sample_2.jpg" style="width: 400px"/>
+<img src="ScreenShots/sample_3.jpg" style="width: 400px"/>
+<img src="ScreenShots/sample_4.jpg" style="width: 400px"/>
 
 ## Author
 
