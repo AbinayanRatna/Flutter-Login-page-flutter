@@ -3,7 +3,7 @@ Screenshots:
 <img src="ScreenShots/sample_1.jpg" style="width: 400px"/>
 <img src="ScreenShots/sample_2.jpg" style="width: 400px"/>
 <img src="ScreenShots/sample_3.jpg" style="width: 400px"/>
-<img src="ScreenShots/sample_4.jpg" style="width: 400px"/>
+<img src="ScreenShots/sample_4.mp4" style="width: 400px"/>
 
 ## Author
 
